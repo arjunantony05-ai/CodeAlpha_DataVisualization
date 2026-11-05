@@ -1,0 +1,660 @@
+title,category,price_gbp,rating,in_stock,product_url
+Garden Night 1,Default,32.42,5,True,https://books.toscrape.com/catalogue/book_1/index.html
+Fire Garden 2,Default,43.16,5,True,https://books.toscrape.com/catalogue/book_2/index.html
+Shadow Night 3,Default,48.5,3,True,https://books.toscrape.com/catalogue/book_3/index.html
+Fire River 4,Default,43.49,5,True,https://books.toscrape.com/catalogue/book_4/index.html
+Fire Storm 5,Default,31.66,1,True,https://books.toscrape.com/catalogue/book_5/index.html
+Whisper Secret 6,Default,33.51,2,True,https://books.toscrape.com/catalogue/book_6/index.html
+Last River 7,Default,44.88,3,True,https://books.toscrape.com/catalogue/book_7/index.html
+City River 8,Default,44.11,3,True,https://books.toscrape.com/catalogue/book_8/index.html
+Whisper Letters 9,Default,44.85,4,True,https://books.toscrape.com/catalogue/book_9/index.html
+Memory City 10,Default,39.48,2,True,https://books.toscrape.com/catalogue/book_10/index.html
+Fire Lost 11,Default,32.7,3,True,https://books.toscrape.com/catalogue/book_11/index.html
+Memory Lost 12,Default,26.06,4,True,https://books.toscrape.com/catalogue/book_12/index.html
+Heart Secret 13,Default,27.62,5,True,https://books.toscrape.com/catalogue/book_13/index.html
+Night Whisper 14,Default,35.37,3,True,https://books.toscrape.com/catalogue/book_14/index.html
+Echo Island 15,Default,27.58,3,True,https://books.toscrape.com/catalogue/book_15/index.html
+Night Golden 16,Default,55.88,3,True,https://books.toscrape.com/catalogue/book_16/index.html
+Fire Memory 17,Default,56.21,2,True,https://books.toscrape.com/catalogue/book_17/index.html
+City Silent 18,Default,44.1,5,True,https://books.toscrape.com/catalogue/book_18/index.html
+Winter Lost 19,Default,23.47,1,True,https://books.toscrape.com/catalogue/book_19/index.html
+Storm Island 20,Default,25.52,1,True,https://books.toscrape.com/catalogue/book_20/index.html
+Letters Whisper 21,Default,10.0,2,True,https://books.toscrape.com/catalogue/book_21/index.html
+City Storm 22,Default,27.13,5,True,https://books.toscrape.com/catalogue/book_22/index.html
+Shadow Silent 23,Default,40.55,3,True,https://books.toscrape.com/catalogue/book_23/index.html
+Golden Lost 24,Default,45.1,1,True,https://books.toscrape.com/catalogue/book_24/index.html
+Secret Crown 25,Default,23.67,5,True,https://books.toscrape.com/catalogue/book_25/index.html
+Garden Memory 26,Default,49.25,5,True,https://books.toscrape.com/catalogue/book_26/index.html
+Storm Storm 27,Default,53.65,2,True,https://books.toscrape.com/catalogue/book_27/index.html
+Storm Garden 28,Default,18.24,1,True,https://books.toscrape.com/catalogue/book_28/index.html
+Echo Garden 29,Default,29.71,1,True,https://books.toscrape.com/catalogue/book_29/index.html
+Whisper River 30,Default,38.46,5,True,https://books.toscrape.com/catalogue/book_30/index.html
+Storm Secret 31,Default,44.64,4,True,https://books.toscrape.com/catalogue/book_31/index.html
+Echo City 32,Default,40.09,3,True,https://books.toscrape.com/catalogue/book_32/index.html
+Island Island 33,Default,10.0,2,True,https://books.toscrape.com/catalogue/book_33/index.html
+Heart Golden 34,Default,38.89,3,True,https://books.toscrape.com/catalogue/book_34/index.html
+Crown City 35,Default,26.56,1,True,https://books.toscrape.com/catalogue/book_35/index.html
+Silent Crown 36,Default,35.03,2,True,https://books.toscrape.com/catalogue/book_36/index.html
+Crown City 37,Default,58.75,5,True,https://books.toscrape.com/catalogue/book_37/index.html
+Shadow Whisper 38,Default,50.64,3,True,https://books.toscrape.com/catalogue/book_38/index.html
+Winter Shadow 39,Default,23.37,5,True,https://books.toscrape.com/catalogue/book_39/index.html
+Shadow Winter 40,Default,21.41,3,True,https://books.toscrape.com/catalogue/book_40/index.html
+Golden Island 41,Default,39.28,2,True,https://books.toscrape.com/catalogue/book_41/index.html
+City Memory 42,Default,36.6,5,True,https://books.toscrape.com/catalogue/book_42/index.html
+Night Shadow 43,Default,13.8,1,True,https://books.toscrape.com/catalogue/book_43/index.html
+Heart Winter 44,Default,59.99,3,True,https://books.toscrape.com/catalogue/book_44/index.html
+City Night 45,Default,35.33,5,True,https://books.toscrape.com/catalogue/book_45/index.html
+Storm Winter 46,Default,35.45,3,True,https://books.toscrape.com/catalogue/book_46/index.html
+Storm Memory 47,Default,39.06,3,True,https://books.toscrape.com/catalogue/book_47/index.html
+Last Last 48,Default,23.79,5,True,https://books.toscrape.com/catalogue/book_48/index.html
+Secret Echo 49,Default,22.82,5,True,https://books.toscrape.com/catalogue/book_49/index.html
+City Secret 50,Default,27.54,3,True,https://books.toscrape.com/catalogue/book_50/index.html
+River Crown 51,Default,59.99,4,True,https://books.toscrape.com/catalogue/book_51/index.html
+Winter Winter 52,Default,39.33,1,True,https://books.toscrape.com/catalogue/book_52/index.html
+Heart Golden 53,Default,12.22,3,True,https://books.toscrape.com/catalogue/book_53/index.html
+Garden City 54,Default,35.83,5,True,https://books.toscrape.com/catalogue/book_54/index.html
+Crown Secret 55,Default,42.71,3,True,https://books.toscrape.com/catalogue/book_55/index.html
+Silent Memory 56,Default,20.51,4,True,https://books.toscrape.com/catalogue/book_56/index.html
+Secret Island 57,Default,37.3,4,True,https://books.toscrape.com/catalogue/book_57/index.html
+Garden Heart 58,Default,28.13,4,True,https://books.toscrape.com/catalogue/book_58/index.html
+Whisper Garden 59,Default,11.91,2,True,https://books.toscrape.com/catalogue/book_59/index.html
+River Crown 60,Default,38.66,3,True,https://books.toscrape.com/catalogue/book_60/index.html
+Heart Echo 61,Default,39.98,5,True,https://books.toscrape.com/catalogue/book_61/index.html
+Winter Golden 62,Default,32.87,3,True,https://books.toscrape.com/catalogue/book_62/index.html
+Crown Golden 63,Default,10.0,5,True,https://books.toscrape.com/catalogue/book_63/index.html
+Winter Memory 64,Default,40.59,1,True,https://books.toscrape.com/catalogue/book_64/index.html
+Shadow Letters 65,Default,30.92,1,True,https://books.toscrape.com/catalogue/book_65/index.html
+River Secret 66,Default,37.93,5,True,https://books.toscrape.com/catalogue/book_66/index.html
+Secret Memory 67,Default,28.87,2,True,https://books.toscrape.com/catalogue/book_67/index.html
+Storm Island 68,Default,43.97,1,True,https://books.toscrape.com/catalogue/book_68/index.html
+Crown Storm 69,Default,39.6,2,True,https://books.toscrape.com/catalogue/book_69/index.html
+Heart Night 70,Default,57.62,4,True,https://books.toscrape.com/catalogue/book_70/index.html
+Silent Storm 71,Default,21.77,2,True,https://books.toscrape.com/catalogue/book_71/index.html
+Crown Night 72,Default,30.97,1,True,https://books.toscrape.com/catalogue/book_72/index.html
+Night Golden 73,Default,39.85,2,True,https://books.toscrape.com/catalogue/book_73/index.html
+Last Golden 74,Default,59.99,4,True,https://books.toscrape.com/catalogue/book_74/index.html
+Golden Storm 75,Default,48.31,1,True,https://books.toscrape.com/catalogue/book_75/index.html
+Fire Island 76,Default,18.96,4,True,https://books.toscrape.com/catalogue/book_76/index.html
+Letters Night 77,Default,55.99,2,True,https://books.toscrape.com/catalogue/book_77/index.html
+Night Golden 78,Default,43.56,1,True,https://books.toscrape.com/catalogue/book_78/index.html
+Memory Silent 79,Default,59.99,2,True,https://books.toscrape.com/catalogue/book_79/index.html
+Golden Echo 80,Default,47.34,1,True,https://books.toscrape.com/catalogue/book_80/index.html
+Last Golden 81,Default,36.49,1,True,https://books.toscrape.com/catalogue/book_81/index.html
+Lost Lost 82,Default,42.72,3,True,https://books.toscrape.com/catalogue/book_82/index.html
+Golden City 83,Default,16.3,5,True,https://books.toscrape.com/catalogue/book_83/index.html
+Garden Silent 84,Default,43.0,1,True,https://books.toscrape.com/catalogue/book_84/index.html
+Shadow Memory 85,Default,52.66,1,True,https://books.toscrape.com/catalogue/book_85/index.html
+Letters Island 86,Default,33.69,3,True,https://books.toscrape.com/catalogue/book_86/index.html
+Winter Shadow 87,Default,47.8,2,True,https://books.toscrape.com/catalogue/book_87/index.html
+Secret Storm 88,Default,33.77,5,True,https://books.toscrape.com/catalogue/book_88/index.html
+Golden Letters 89,Default,37.23,1,True,https://books.toscrape.com/catalogue/book_89/index.html
+Storm Crown 90,Default,33.97,4,True,https://books.toscrape.com/catalogue/book_90/index.html
+Memory Last 91,Default,36.57,1,True,https://books.toscrape.com/catalogue/book_91/index.html
+Golden City 92,Default,47.65,5,True,https://books.toscrape.com/catalogue/book_92/index.html
+Lost Winter 93,Default,25.97,2,False,https://books.toscrape.com/catalogue/book_93/index.html
+Storm Night 94,Default,32.94,3,True,https://books.toscrape.com/catalogue/book_94/index.html
+Silent Night 95,Default,41.03,2,True,https://books.toscrape.com/catalogue/book_95/index.html
+Storm Fire 96,Default,51.82,1,True,https://books.toscrape.com/catalogue/book_96/index.html
+Fire Crown 97,Default,32.59,5,True,https://books.toscrape.com/catalogue/book_97/index.html
+Echo Storm 98,Default,45.61,4,True,https://books.toscrape.com/catalogue/book_98/index.html
+Echo Secret 99,Default,24.56,1,True,https://books.toscrape.com/catalogue/book_99/index.html
+Crown Letters 100,Default,36.42,4,True,https://books.toscrape.com/catalogue/book_100/index.html
+Crown Fire 101,Default,46.93,5,True,https://books.toscrape.com/catalogue/book_101/index.html
+Fire Shadow 102,Default,49.09,1,True,https://books.toscrape.com/catalogue/book_102/index.html
+Storm Memory 103,Default,12.91,3,True,https://books.toscrape.com/catalogue/book_103/index.html
+Whisper Shadow 104,Default,10.0,3,False,https://books.toscrape.com/catalogue/book_104/index.html
+Crown Whisper 105,Default,42.86,1,True,https://books.toscrape.com/catalogue/book_105/index.html
+Island Golden 106,Default,13.78,5,True,https://books.toscrape.com/catalogue/book_106/index.html
+Shadow Memory 107,Default,38.25,3,True,https://books.toscrape.com/catalogue/book_107/index.html
+Island Lost 108,Default,59.42,4,True,https://books.toscrape.com/catalogue/book_108/index.html
+Secret Heart 109,Default,32.49,2,True,https://books.toscrape.com/catalogue/book_109/index.html
+Lost Echo 110,Default,31.61,3,True,https://books.toscrape.com/catalogue/book_110/index.html
+River Winter 111,Default,46.28,4,True,https://books.toscrape.com/catalogue/book_111/index.html
+Crown Lost 112,Default,40.12,3,True,https://books.toscrape.com/catalogue/book_112/index.html
+Winter Lost 113,Default,57.8,5,True,https://books.toscrape.com/catalogue/book_113/index.html
+Silent Lost 114,Default,56.09,3,True,https://books.toscrape.com/catalogue/book_114/index.html
+Golden Storm 115,Default,50.99,2,True,https://books.toscrape.com/catalogue/book_115/index.html
+Winter Night 116,Default,32.96,3,True,https://books.toscrape.com/catalogue/book_116/index.html
+Secret Echo 117,Default,10.0,5,True,https://books.toscrape.com/catalogue/book_117/index.html
+River City 118,Default,30.79,2,True,https://books.toscrape.com/catalogue/book_118/index.html
+Silent Island 119,Default,32.87,4,True,https://books.toscrape.com/catalogue/book_119/index.html
+Secret Letters 120,Default,36.27,2,True,https://books.toscrape.com/catalogue/book_120/index.html
+Heart Storm 121,Default,36.44,1,True,https://books.toscrape.com/catalogue/book_121/index.html
+Silent Lost 122,Default,35.3,2,True,https://books.toscrape.com/catalogue/book_122/index.html
+Night City 123,Default,14.19,5,True,https://books.toscrape.com/catalogue/book_123/index.html
+Garden Golden 124,Default,54.0,1,True,https://books.toscrape.com/catalogue/book_124/index.html
+Shadow Golden 125,Default,28.72,3,True,https://books.toscrape.com/catalogue/book_125/index.html
+City Letters 126,Default,59.99,5,True,https://books.toscrape.com/catalogue/book_126/index.html
+Whisper Whisper 127,Default,14.93,2,True,https://books.toscrape.com/catalogue/book_127/index.html
+Letters Memory 128,Default,13.31,4,True,https://books.toscrape.com/catalogue/book_128/index.html
+Whisper Secret 129,Default,47.01,1,True,https://books.toscrape.com/catalogue/book_129/index.html
+Lost Lost 130,Default,24.2,2,True,https://books.toscrape.com/catalogue/book_130/index.html
+Shadow Lost 131,Default,27.8,3,True,https://books.toscrape.com/catalogue/book_131/index.html
+River Last 132,Default,24.29,4,True,https://books.toscrape.com/catalogue/book_132/index.html
+Whisper Shadow 133,Default,10.41,3,True,https://books.toscrape.com/catalogue/book_133/index.html
+Memory Letters 134,Default,35.9,1,True,https://books.toscrape.com/catalogue/book_134/index.html
+Night Heart 135,Default,46.78,2,True,https://books.toscrape.com/catalogue/book_135/index.html
+Fire Winter 136,Default,42.91,5,True,https://books.toscrape.com/catalogue/book_136/index.html
+Crown Winter 137,Default,23.65,2,True,https://books.toscrape.com/catalogue/book_137/index.html
+Garden Island 138,Default,43.54,2,True,https://books.toscrape.com/catalogue/book_138/index.html
+Winter Night 139,Default,47.65,2,True,https://books.toscrape.com/catalogue/book_139/index.html
+Storm Memory 140,Default,47.78,3,True,https://books.toscrape.com/catalogue/book_140/index.html
+Secret Garden 141,Default,50.45,3,True,https://books.toscrape.com/catalogue/book_141/index.html
+Island Fire 142,Default,10.0,3,True,https://books.toscrape.com/catalogue/book_142/index.html
+Crown Memory 143,Default,59.99,5,True,https://books.toscrape.com/catalogue/book_143/index.html
+River Shadow 144,Default,22.36,1,True,https://books.toscrape.com/catalogue/book_144/index.html
+Memory Night 145,Default,22.19,3,True,https://books.toscrape.com/catalogue/book_145/index.html
+Secret Shadow 146,Default,10.0,3,True,https://books.toscrape.com/catalogue/book_146/index.html
+Golden Crown 147,Default,28.18,4,True,https://books.toscrape.com/catalogue/book_147/index.html
+River River 148,Default,10.0,1,True,https://books.toscrape.com/catalogue/book_148/index.html
+Shadow Echo 149,Default,23.96,1,True,https://books.toscrape.com/catalogue/book_149/index.html
+Memory Golden 150,Default,29.1,5,True,https://books.toscrape.com/catalogue/book_150/index.html
+Shadow Whisper 151,Nonfiction,46.85,2,True,https://books.toscrape.com/catalogue/book_151/index.html
+Lost Garden 152,Nonfiction,24.39,1,True,https://books.toscrape.com/catalogue/book_152/index.html
+Golden Shadow 153,Nonfiction,28.32,4,True,https://books.toscrape.com/catalogue/book_153/index.html
+Shadow Island 154,Nonfiction,22.0,1,True,https://books.toscrape.com/catalogue/book_154/index.html
+Winter Silent 155,Nonfiction,16.38,4,True,https://books.toscrape.com/catalogue/book_155/index.html
+Crown Night 156,Nonfiction,45.15,2,True,https://books.toscrape.com/catalogue/book_156/index.html
+Shadow Memory 157,Nonfiction,25.2,2,True,https://books.toscrape.com/catalogue/book_157/index.html
+Lost River 158,Nonfiction,59.0,5,True,https://books.toscrape.com/catalogue/book_158/index.html
+Letters Garden 159,Nonfiction,38.82,5,True,https://books.toscrape.com/catalogue/book_159/index.html
+Storm Garden 160,Nonfiction,44.19,2,True,https://books.toscrape.com/catalogue/book_160/index.html
+Garden Last 161,Nonfiction,37.87,2,True,https://books.toscrape.com/catalogue/book_161/index.html
+Heart River 162,Nonfiction,38.55,5,True,https://books.toscrape.com/catalogue/book_162/index.html
+Crown Memory 163,Nonfiction,30.72,1,True,https://books.toscrape.com/catalogue/book_163/index.html
+Storm City 164,Nonfiction,42.88,5,True,https://books.toscrape.com/catalogue/book_164/index.html
+Night City 165,Nonfiction,39.38,3,True,https://books.toscrape.com/catalogue/book_165/index.html
+Whisper Winter 166,Nonfiction,38.57,2,True,https://books.toscrape.com/catalogue/book_166/index.html
+Night Garden 167,Nonfiction,25.89,4,True,https://books.toscrape.com/catalogue/book_167/index.html
+Whisper Memory 168,Nonfiction,58.57,1,True,https://books.toscrape.com/catalogue/book_168/index.html
+Letters Shadow 169,Nonfiction,37.77,5,True,https://books.toscrape.com/catalogue/book_169/index.html
+Garden Storm 170,Nonfiction,32.91,1,True,https://books.toscrape.com/catalogue/book_170/index.html
+Night Echo 171,Nonfiction,44.46,2,True,https://books.toscrape.com/catalogue/book_171/index.html
+Echo Garden 172,Nonfiction,29.81,2,True,https://books.toscrape.com/catalogue/book_172/index.html
+Silent Echo 173,Nonfiction,30.44,5,True,https://books.toscrape.com/catalogue/book_173/index.html
+Night Silent 174,Nonfiction,45.28,5,True,https://books.toscrape.com/catalogue/book_174/index.html
+Storm Golden 175,Nonfiction,31.64,5,True,https://books.toscrape.com/catalogue/book_175/index.html
+Secret Island 176,Nonfiction,19.69,1,True,https://books.toscrape.com/catalogue/book_176/index.html
+Secret Echo 177,Nonfiction,33.12,2,True,https://books.toscrape.com/catalogue/book_177/index.html
+Memory City 178,Nonfiction,10.0,4,True,https://books.toscrape.com/catalogue/book_178/index.html
+Last Shadow 179,Nonfiction,21.08,3,True,https://books.toscrape.com/catalogue/book_179/index.html
+Island Whisper 180,Nonfiction,33.96,3,True,https://books.toscrape.com/catalogue/book_180/index.html
+Night Golden 181,Nonfiction,29.09,4,True,https://books.toscrape.com/catalogue/book_181/index.html
+Letters Island 182,Nonfiction,37.94,5,True,https://books.toscrape.com/catalogue/book_182/index.html
+Memory Echo 183,Nonfiction,38.47,5,True,https://books.toscrape.com/catalogue/book_183/index.html
+Whisper River 184,Nonfiction,41.62,4,True,https://books.toscrape.com/catalogue/book_184/index.html
+Golden Golden 185,Nonfiction,32.97,1,True,https://books.toscrape.com/catalogue/book_185/index.html
+Shadow Shadow 186,Nonfiction,45.86,1,True,https://books.toscrape.com/catalogue/book_186/index.html
+Storm Golden 187,Nonfiction,24.03,5,True,https://books.toscrape.com/catalogue/book_187/index.html
+Shadow River 188,Nonfiction,29.12,4,True,https://books.toscrape.com/catalogue/book_188/index.html
+Shadow Memory 189,Nonfiction,47.71,5,True,https://books.toscrape.com/catalogue/book_189/index.html
+Lost Shadow 190,Nonfiction,44.53,1,True,https://books.toscrape.com/catalogue/book_190/index.html
+Night City 191,Nonfiction,53.26,3,True,https://books.toscrape.com/catalogue/book_191/index.html
+Echo Golden 192,Nonfiction,31.87,4,True,https://books.toscrape.com/catalogue/book_192/index.html
+Echo City 193,Nonfiction,54.93,2,True,https://books.toscrape.com/catalogue/book_193/index.html
+Secret Garden 194,Nonfiction,35.79,2,True,https://books.toscrape.com/catalogue/book_194/index.html
+Winter Silent 195,Nonfiction,18.51,5,True,https://books.toscrape.com/catalogue/book_195/index.html
+City Last 196,Nonfiction,23.11,4,True,https://books.toscrape.com/catalogue/book_196/index.html
+Island Night 197,Nonfiction,51.06,3,True,https://books.toscrape.com/catalogue/book_197/index.html
+Whisper Secret 198,Nonfiction,38.22,4,True,https://books.toscrape.com/catalogue/book_198/index.html
+Letters Lost 199,Nonfiction,46.14,4,True,https://books.toscrape.com/catalogue/book_199/index.html
+Garden Lost 200,Nonfiction,53.49,4,True,https://books.toscrape.com/catalogue/book_200/index.html
+City Winter 201,Nonfiction,32.7,2,True,https://books.toscrape.com/catalogue/book_201/index.html
+Silent Letters 202,Nonfiction,36.38,5,True,https://books.toscrape.com/catalogue/book_202/index.html
+City Memory 203,Nonfiction,41.12,4,True,https://books.toscrape.com/catalogue/book_203/index.html
+Garden Whisper 204,Nonfiction,22.08,1,True,https://books.toscrape.com/catalogue/book_204/index.html
+City Crown 205,Nonfiction,20.45,1,True,https://books.toscrape.com/catalogue/book_205/index.html
+Last Crown 206,Nonfiction,46.04,1,True,https://books.toscrape.com/catalogue/book_206/index.html
+Winter Lost 207,Nonfiction,17.55,1,True,https://books.toscrape.com/catalogue/book_207/index.html
+Island Heart 208,Nonfiction,50.63,1,True,https://books.toscrape.com/catalogue/book_208/index.html
+Echo Last 209,Nonfiction,11.89,4,True,https://books.toscrape.com/catalogue/book_209/index.html
+Echo Storm 210,Nonfiction,54.64,4,True,https://books.toscrape.com/catalogue/book_210/index.html
+Garden Storm 211,Nonfiction,17.19,5,True,https://books.toscrape.com/catalogue/book_211/index.html
+City River 212,Nonfiction,38.06,1,True,https://books.toscrape.com/catalogue/book_212/index.html
+Whisper Garden 213,Nonfiction,38.67,4,True,https://books.toscrape.com/catalogue/book_213/index.html
+Storm Echo 214,Nonfiction,26.61,3,True,https://books.toscrape.com/catalogue/book_214/index.html
+Lost Fire 215,Nonfiction,38.56,2,True,https://books.toscrape.com/catalogue/book_215/index.html
+City Memory 216,Nonfiction,15.06,3,True,https://books.toscrape.com/catalogue/book_216/index.html
+Memory Shadow 217,Nonfiction,59.99,3,True,https://books.toscrape.com/catalogue/book_217/index.html
+Memory Last 218,Nonfiction,35.9,5,True,https://books.toscrape.com/catalogue/book_218/index.html
+City Night 219,Nonfiction,47.04,5,True,https://books.toscrape.com/catalogue/book_219/index.html
+Garden Garden 220,Nonfiction,40.4,4,True,https://books.toscrape.com/catalogue/book_220/index.html
+Crown Night 221,Nonfiction,32.48,1,True,https://books.toscrape.com/catalogue/book_221/index.html
+Storm Secret 222,Nonfiction,10.85,1,True,https://books.toscrape.com/catalogue/book_222/index.html
+River Winter 223,Nonfiction,18.79,1,True,https://books.toscrape.com/catalogue/book_223/index.html
+Lost Last 224,Nonfiction,20.87,4,True,https://books.toscrape.com/catalogue/book_224/index.html
+Echo Golden 225,Nonfiction,39.78,1,True,https://books.toscrape.com/catalogue/book_225/index.html
+Golden Memory 226,Nonfiction,59.99,1,True,https://books.toscrape.com/catalogue/book_226/index.html
+Golden Echo 227,Nonfiction,43.38,3,True,https://books.toscrape.com/catalogue/book_227/index.html
+Garden Winter 228,Nonfiction,30.39,1,True,https://books.toscrape.com/catalogue/book_228/index.html
+Storm Last 229,Nonfiction,54.46,4,True,https://books.toscrape.com/catalogue/book_229/index.html
+Crown Garden 230,Nonfiction,26.78,4,True,https://books.toscrape.com/catalogue/book_230/index.html
+Fire River 231,Nonfiction,47.44,2,True,https://books.toscrape.com/catalogue/book_231/index.html
+Storm City 232,Nonfiction,22.24,2,True,https://books.toscrape.com/catalogue/book_232/index.html
+Night Memory 233,Nonfiction,23.3,2,True,https://books.toscrape.com/catalogue/book_233/index.html
+Garden Lost 234,Nonfiction,28.82,5,True,https://books.toscrape.com/catalogue/book_234/index.html
+Fire Heart 235,Nonfiction,10.0,4,True,https://books.toscrape.com/catalogue/book_235/index.html
+Shadow Secret 236,Nonfiction,10.0,2,True,https://books.toscrape.com/catalogue/book_236/index.html
+Garden Secret 237,Nonfiction,23.42,3,True,https://books.toscrape.com/catalogue/book_237/index.html
+Garden Silent 238,Nonfiction,41.59,1,True,https://books.toscrape.com/catalogue/book_238/index.html
+Whisper Shadow 239,Nonfiction,29.36,3,True,https://books.toscrape.com/catalogue/book_239/index.html
+Secret Winter 240,Nonfiction,51.07,2,True,https://books.toscrape.com/catalogue/book_240/index.html
+Shadow Secret 241,Nonfiction,36.28,3,True,https://books.toscrape.com/catalogue/book_241/index.html
+Secret Golden 242,Nonfiction,36.98,3,True,https://books.toscrape.com/catalogue/book_242/index.html
+Whisper City 243,Nonfiction,55.09,3,True,https://books.toscrape.com/catalogue/book_243/index.html
+Echo Crown 244,Nonfiction,36.45,4,True,https://books.toscrape.com/catalogue/book_244/index.html
+Whisper Silent 245,Nonfiction,38.45,3,True,https://books.toscrape.com/catalogue/book_245/index.html
+Garden River 246,Nonfiction,32.61,1,True,https://books.toscrape.com/catalogue/book_246/index.html
+Winter Crown 247,Nonfiction,42.23,4,True,https://books.toscrape.com/catalogue/book_247/index.html
+Letters Echo 248,Nonfiction,32.19,1,True,https://books.toscrape.com/catalogue/book_248/index.html
+Island Whisper 249,Nonfiction,33.63,1,True,https://books.toscrape.com/catalogue/book_249/index.html
+Memory Night 250,Nonfiction,39.2,4,True,https://books.toscrape.com/catalogue/book_250/index.html
+Shadow Garden 251,Nonfiction,35.99,1,True,https://books.toscrape.com/catalogue/book_251/index.html
+Golden Garden 252,Nonfiction,41.53,2,True,https://books.toscrape.com/catalogue/book_252/index.html
+Crown Golden 253,Nonfiction,12.29,2,True,https://books.toscrape.com/catalogue/book_253/index.html
+Winter Night 254,Nonfiction,44.65,5,True,https://books.toscrape.com/catalogue/book_254/index.html
+Winter Last 255,Nonfiction,34.33,4,True,https://books.toscrape.com/catalogue/book_255/index.html
+Storm Heart 256,Nonfiction,45.25,4,True,https://books.toscrape.com/catalogue/book_256/index.html
+Whisper Island 257,Nonfiction,53.88,3,True,https://books.toscrape.com/catalogue/book_257/index.html
+Silent Silent 258,Nonfiction,10.0,3,True,https://books.toscrape.com/catalogue/book_258/index.html
+Winter Storm 259,Nonfiction,24.15,4,True,https://books.toscrape.com/catalogue/book_259/index.html
+Last Secret 260,Nonfiction,29.86,1,True,https://books.toscrape.com/catalogue/book_260/index.html
+Secret Silent 261,Add a comment,32.01,1,True,https://books.toscrape.com/catalogue/book_261/index.html
+Garden Night 262,Add a comment,32.23,4,True,https://books.toscrape.com/catalogue/book_262/index.html
+Whisper Night 263,Add a comment,26.79,5,True,https://books.toscrape.com/catalogue/book_263/index.html
+Storm River 264,Add a comment,30.84,2,True,https://books.toscrape.com/catalogue/book_264/index.html
+Night Lost 265,Add a comment,59.99,3,True,https://books.toscrape.com/catalogue/book_265/index.html
+Winter Lost 266,Add a comment,45.22,2,True,https://books.toscrape.com/catalogue/book_266/index.html
+Lost Garden 267,Add a comment,48.69,4,True,https://books.toscrape.com/catalogue/book_267/index.html
+Heart Echo 268,Add a comment,39.41,3,True,https://books.toscrape.com/catalogue/book_268/index.html
+Letters Silent 269,Add a comment,35.41,3,True,https://books.toscrape.com/catalogue/book_269/index.html
+City Island 270,Add a comment,35.62,4,True,https://books.toscrape.com/catalogue/book_270/index.html
+Night Fire 271,Add a comment,43.81,5,True,https://books.toscrape.com/catalogue/book_271/index.html
+Silent Crown 272,Add a comment,59.99,2,True,https://books.toscrape.com/catalogue/book_272/index.html
+Island River 273,Add a comment,39.3,3,True,https://books.toscrape.com/catalogue/book_273/index.html
+Last Island 274,Add a comment,37.82,3,True,https://books.toscrape.com/catalogue/book_274/index.html
+Last Lost 275,Add a comment,19.69,5,True,https://books.toscrape.com/catalogue/book_275/index.html
+Shadow Island 276,Add a comment,36.25,1,True,https://books.toscrape.com/catalogue/book_276/index.html
+Whisper River 277,Add a comment,39.71,4,True,https://books.toscrape.com/catalogue/book_277/index.html
+Storm Storm 278,Add a comment,21.84,5,True,https://books.toscrape.com/catalogue/book_278/index.html
+City Winter 279,Add a comment,20.19,2,True,https://books.toscrape.com/catalogue/book_279/index.html
+Whisper Crown 280,Add a comment,47.48,1,True,https://books.toscrape.com/catalogue/book_280/index.html
+Secret Whisper 281,Add a comment,15.11,3,True,https://books.toscrape.com/catalogue/book_281/index.html
+Echo Garden 282,Add a comment,13.4,2,True,https://books.toscrape.com/catalogue/book_282/index.html
+Whisper Heart 283,Add a comment,53.1,1,True,https://books.toscrape.com/catalogue/book_283/index.html
+Golden Fire 284,Add a comment,59.99,2,True,https://books.toscrape.com/catalogue/book_284/index.html
+Crown Winter 285,Add a comment,24.5,2,True,https://books.toscrape.com/catalogue/book_285/index.html
+Echo Secret 286,Add a comment,21.11,4,True,https://books.toscrape.com/catalogue/book_286/index.html
+City Last 287,Add a comment,34.81,2,True,https://books.toscrape.com/catalogue/book_287/index.html
+Golden River 288,Add a comment,19.24,1,True,https://books.toscrape.com/catalogue/book_288/index.html
+Secret Lost 289,Add a comment,40.69,4,True,https://books.toscrape.com/catalogue/book_289/index.html
+Winter River 290,Add a comment,45.54,4,True,https://books.toscrape.com/catalogue/book_290/index.html
+Garden Silent 291,Add a comment,41.75,2,True,https://books.toscrape.com/catalogue/book_291/index.html
+Shadow Crown 292,Add a comment,51.37,5,True,https://books.toscrape.com/catalogue/book_292/index.html
+Storm Silent 293,Add a comment,48.69,4,True,https://books.toscrape.com/catalogue/book_293/index.html
+Letters Fire 294,Add a comment,39.5,3,True,https://books.toscrape.com/catalogue/book_294/index.html
+Fire Shadow 295,Add a comment,49.79,4,True,https://books.toscrape.com/catalogue/book_295/index.html
+Memory Letters 296,Add a comment,20.88,2,True,https://books.toscrape.com/catalogue/book_296/index.html
+Storm Last 297,Add a comment,49.93,2,True,https://books.toscrape.com/catalogue/book_297/index.html
+Memory Silent 298,Add a comment,46.42,4,True,https://books.toscrape.com/catalogue/book_298/index.html
+Last Heart 299,Add a comment,23.38,4,True,https://books.toscrape.com/catalogue/book_299/index.html
+Island River 300,Add a comment,10.0,1,True,https://books.toscrape.com/catalogue/book_300/index.html
+Winter Crown 301,Add a comment,50.98,2,True,https://books.toscrape.com/catalogue/book_301/index.html
+Memory Whisper 302,Add a comment,58.69,2,True,https://books.toscrape.com/catalogue/book_302/index.html
+City Crown 303,Add a comment,59.99,2,True,https://books.toscrape.com/catalogue/book_303/index.html
+Memory Winter 304,Add a comment,40.51,5,True,https://books.toscrape.com/catalogue/book_304/index.html
+Echo City 305,Add a comment,10.0,4,True,https://books.toscrape.com/catalogue/book_305/index.html
+Storm Storm 306,Add a comment,35.19,1,True,https://books.toscrape.com/catalogue/book_306/index.html
+City Fire 307,Add a comment,54.99,2,True,https://books.toscrape.com/catalogue/book_307/index.html
+Storm Crown 308,Add a comment,28.02,5,True,https://books.toscrape.com/catalogue/book_308/index.html
+Last Secret 309,Add a comment,53.12,5,True,https://books.toscrape.com/catalogue/book_309/index.html
+Winter Island 310,Add a comment,34.2,4,True,https://books.toscrape.com/catalogue/book_310/index.html
+Letters Memory 311,Add a comment,41.11,5,True,https://books.toscrape.com/catalogue/book_311/index.html
+Secret Island 312,Add a comment,30.77,2,True,https://books.toscrape.com/catalogue/book_312/index.html
+Golden Letters 313,Add a comment,36.51,4,True,https://books.toscrape.com/catalogue/book_313/index.html
+Golden City 314,Add a comment,51.52,2,True,https://books.toscrape.com/catalogue/book_314/index.html
+Night City 315,Add a comment,23.31,1,True,https://books.toscrape.com/catalogue/book_315/index.html
+Storm Garden 316,Add a comment,39.9,1,True,https://books.toscrape.com/catalogue/book_316/index.html
+Crown City 317,Add a comment,22.86,4,True,https://books.toscrape.com/catalogue/book_317/index.html
+Silent Winter 318,Add a comment,59.99,5,True,https://books.toscrape.com/catalogue/book_318/index.html
+Secret Shadow 319,Add a comment,38.0,1,True,https://books.toscrape.com/catalogue/book_319/index.html
+Secret Winter 320,Add a comment,44.48,5,True,https://books.toscrape.com/catalogue/book_320/index.html
+Echo Night 321,Add a comment,52.54,4,True,https://books.toscrape.com/catalogue/book_321/index.html
+Lost Winter 322,Add a comment,59.99,3,True,https://books.toscrape.com/catalogue/book_322/index.html
+River Whisper 323,Add a comment,59.99,1,True,https://books.toscrape.com/catalogue/book_323/index.html
+Secret Island 324,Add a comment,50.69,3,True,https://books.toscrape.com/catalogue/book_324/index.html
+Island Shadow 325,Add a comment,30.35,3,True,https://books.toscrape.com/catalogue/book_325/index.html
+Silent Last 326,Add a comment,39.61,5,True,https://books.toscrape.com/catalogue/book_326/index.html
+Memory City 327,Add a comment,18.87,3,True,https://books.toscrape.com/catalogue/book_327/index.html
+Night Last 328,Fiction,26.06,4,True,https://books.toscrape.com/catalogue/book_328/index.html
+Heart River 329,Fiction,52.9,3,True,https://books.toscrape.com/catalogue/book_329/index.html
+Secret Garden 330,Fiction,37.42,2,True,https://books.toscrape.com/catalogue/book_330/index.html
+City Heart 331,Fiction,38.36,3,True,https://books.toscrape.com/catalogue/book_331/index.html
+Winter Lost 332,Fiction,38.46,3,True,https://books.toscrape.com/catalogue/book_332/index.html
+Lost City 333,Fiction,10.0,5,True,https://books.toscrape.com/catalogue/book_333/index.html
+Crown Golden 334,Fiction,25.27,5,True,https://books.toscrape.com/catalogue/book_334/index.html
+River Heart 335,Fiction,38.69,1,True,https://books.toscrape.com/catalogue/book_335/index.html
+Secret Fire 336,Fiction,49.61,5,True,https://books.toscrape.com/catalogue/book_336/index.html
+Whisper Storm 337,Fiction,48.12,3,True,https://books.toscrape.com/catalogue/book_337/index.html
+Lost River 338,Fiction,33.69,1,True,https://books.toscrape.com/catalogue/book_338/index.html
+Garden Crown 339,Fiction,50.89,5,True,https://books.toscrape.com/catalogue/book_339/index.html
+Echo Secret 340,Fiction,24.91,4,True,https://books.toscrape.com/catalogue/book_340/index.html
+Winter Garden 341,Fiction,16.6,4,True,https://books.toscrape.com/catalogue/book_341/index.html
+Last River 342,Fiction,21.96,4,True,https://books.toscrape.com/catalogue/book_342/index.html
+Silent City 343,Fiction,28.32,5,True,https://books.toscrape.com/catalogue/book_343/index.html
+Lost Whisper 344,Fiction,37.05,4,True,https://books.toscrape.com/catalogue/book_344/index.html
+Silent Letters 345,Fiction,35.47,3,True,https://books.toscrape.com/catalogue/book_345/index.html
+Garden Island 346,Fiction,37.39,3,True,https://books.toscrape.com/catalogue/book_346/index.html
+Fire Storm 347,Fiction,52.74,3,True,https://books.toscrape.com/catalogue/book_347/index.html
+Storm Echo 348,Fiction,51.34,3,True,https://books.toscrape.com/catalogue/book_348/index.html
+Letters Whisper 349,Fiction,49.79,1,True,https://books.toscrape.com/catalogue/book_349/index.html
+Winter Secret 350,Fiction,32.08,4,True,https://books.toscrape.com/catalogue/book_350/index.html
+Night Winter 351,Fiction,54.79,5,True,https://books.toscrape.com/catalogue/book_351/index.html
+Silent Golden 352,Fiction,35.22,4,True,https://books.toscrape.com/catalogue/book_352/index.html
+Garden City 353,Fiction,33.07,4,True,https://books.toscrape.com/catalogue/book_353/index.html
+Secret Night 354,Fiction,25.03,2,True,https://books.toscrape.com/catalogue/book_354/index.html
+Golden Garden 355,Fiction,13.17,4,True,https://books.toscrape.com/catalogue/book_355/index.html
+Silent Echo 356,Fiction,34.25,1,True,https://books.toscrape.com/catalogue/book_356/index.html
+Island Echo 357,Fiction,32.91,1,True,https://books.toscrape.com/catalogue/book_357/index.html
+Fire Memory 358,Fiction,25.63,3,True,https://books.toscrape.com/catalogue/book_358/index.html
+Last Letters 359,Fiction,40.82,3,True,https://books.toscrape.com/catalogue/book_359/index.html
+Memory Golden 360,Fiction,32.54,4,True,https://books.toscrape.com/catalogue/book_360/index.html
+Echo Heart 361,Fiction,32.7,5,True,https://books.toscrape.com/catalogue/book_361/index.html
+Silent Secret 362,Fiction,38.78,4,True,https://books.toscrape.com/catalogue/book_362/index.html
+Storm Storm 363,Fiction,10.0,4,True,https://books.toscrape.com/catalogue/book_363/index.html
+Shadow Memory 364,Fiction,46.72,2,False,https://books.toscrape.com/catalogue/book_364/index.html
+Fire Garden 365,Fiction,32.8,2,True,https://books.toscrape.com/catalogue/book_365/index.html
+Fire Secret 366,Fiction,48.62,2,True,https://books.toscrape.com/catalogue/book_366/index.html
+Island City 367,Fiction,41.46,3,True,https://books.toscrape.com/catalogue/book_367/index.html
+Island Storm 368,Fiction,14.08,2,True,https://books.toscrape.com/catalogue/book_368/index.html
+Echo Garden 369,Fiction,43.3,4,True,https://books.toscrape.com/catalogue/book_369/index.html
+Winter Golden 370,Fiction,29.75,3,False,https://books.toscrape.com/catalogue/book_370/index.html
+Whisper City 371,Fiction,20.9,4,True,https://books.toscrape.com/catalogue/book_371/index.html
+Fire Crown 372,Fiction,45.55,5,True,https://books.toscrape.com/catalogue/book_372/index.html
+Fire Winter 373,Fiction,18.22,1,True,https://books.toscrape.com/catalogue/book_373/index.html
+Last Lost 374,Fiction,31.82,2,True,https://books.toscrape.com/catalogue/book_374/index.html
+Secret Shadow 375,Fiction,20.18,1,True,https://books.toscrape.com/catalogue/book_375/index.html
+City River 376,Fiction,43.72,2,True,https://books.toscrape.com/catalogue/book_376/index.html
+Silent City 377,Fiction,44.62,2,True,https://books.toscrape.com/catalogue/book_377/index.html
+River Garden 378,Fiction,39.99,2,True,https://books.toscrape.com/catalogue/book_378/index.html
+Winter Golden 379,Fiction,16.94,5,True,https://books.toscrape.com/catalogue/book_379/index.html
+River Memory 380,Fiction,26.56,4,True,https://books.toscrape.com/catalogue/book_380/index.html
+Garden Heart 381,Fiction,44.44,2,True,https://books.toscrape.com/catalogue/book_381/index.html
+Night Silent 382,Fiction,31.56,1,True,https://books.toscrape.com/catalogue/book_382/index.html
+Night Echo 383,Fiction,44.66,4,True,https://books.toscrape.com/catalogue/book_383/index.html
+Night Golden 384,Fiction,22.74,2,True,https://books.toscrape.com/catalogue/book_384/index.html
+Crown Storm 385,Fiction,59.99,1,True,https://books.toscrape.com/catalogue/book_385/index.html
+City Shadow 386,Fiction,50.86,5,True,https://books.toscrape.com/catalogue/book_386/index.html
+City Garden 387,Fiction,44.45,5,True,https://books.toscrape.com/catalogue/book_387/index.html
+Garden Golden 388,Fiction,36.59,4,True,https://books.toscrape.com/catalogue/book_388/index.html
+Garden River 389,Fiction,10.0,1,True,https://books.toscrape.com/catalogue/book_389/index.html
+Winter Lost 390,Fiction,10.0,3,True,https://books.toscrape.com/catalogue/book_390/index.html
+City Golden 391,Fiction,24.92,2,True,https://books.toscrape.com/catalogue/book_391/index.html
+Storm Last 392,Fiction,21.08,3,True,https://books.toscrape.com/catalogue/book_392/index.html
+Memory Winter 393,Young Adult,59.99,4,True,https://books.toscrape.com/catalogue/book_393/index.html
+Shadow Night 394,Young Adult,21.85,5,True,https://books.toscrape.com/catalogue/book_394/index.html
+Memory River 395,Young Adult,42.88,5,True,https://books.toscrape.com/catalogue/book_395/index.html
+Silent Night 396,Young Adult,32.06,3,True,https://books.toscrape.com/catalogue/book_396/index.html
+City Secret 397,Young Adult,44.07,2,True,https://books.toscrape.com/catalogue/book_397/index.html
+Last Memory 398,Young Adult,22.7,3,True,https://books.toscrape.com/catalogue/book_398/index.html
+Letters Shadow 399,Young Adult,44.58,1,True,https://books.toscrape.com/catalogue/book_399/index.html
+Lost Heart 400,Young Adult,29.0,5,True,https://books.toscrape.com/catalogue/book_400/index.html
+Island River 401,Young Adult,48.95,1,True,https://books.toscrape.com/catalogue/book_401/index.html
+Winter Whisper 402,Young Adult,46.79,3,True,https://books.toscrape.com/catalogue/book_402/index.html
+City Letters 403,Young Adult,36.54,5,True,https://books.toscrape.com/catalogue/book_403/index.html
+Shadow River 404,Young Adult,46.38,2,True,https://books.toscrape.com/catalogue/book_404/index.html
+Lost Secret 405,Young Adult,50.87,5,True,https://books.toscrape.com/catalogue/book_405/index.html
+Crown Heart 406,Young Adult,59.53,3,True,https://books.toscrape.com/catalogue/book_406/index.html
+Lost Last 407,Young Adult,45.26,2,True,https://books.toscrape.com/catalogue/book_407/index.html
+Letters Winter 408,Young Adult,10.0,2,True,https://books.toscrape.com/catalogue/book_408/index.html
+Shadow Last 409,Young Adult,46.41,1,True,https://books.toscrape.com/catalogue/book_409/index.html
+Night Echo 410,Young Adult,22.84,4,True,https://books.toscrape.com/catalogue/book_410/index.html
+Winter Fire 411,Young Adult,40.44,2,True,https://books.toscrape.com/catalogue/book_411/index.html
+Crown Letters 412,Young Adult,43.78,5,True,https://books.toscrape.com/catalogue/book_412/index.html
+Lost Island 413,Young Adult,24.15,1,True,https://books.toscrape.com/catalogue/book_413/index.html
+Island Secret 414,Young Adult,35.5,5,True,https://books.toscrape.com/catalogue/book_414/index.html
+City Garden 415,Young Adult,47.33,1,True,https://books.toscrape.com/catalogue/book_415/index.html
+Echo Silent 416,Young Adult,59.99,2,True,https://books.toscrape.com/catalogue/book_416/index.html
+City Shadow 417,Young Adult,42.28,5,True,https://books.toscrape.com/catalogue/book_417/index.html
+Heart Storm 418,Young Adult,35.95,3,True,https://books.toscrape.com/catalogue/book_418/index.html
+Island Memory 419,Young Adult,35.28,3,True,https://books.toscrape.com/catalogue/book_419/index.html
+Whisper Secret 420,Young Adult,43.46,1,True,https://books.toscrape.com/catalogue/book_420/index.html
+River Lost 421,Young Adult,38.46,2,True,https://books.toscrape.com/catalogue/book_421/index.html
+Silent Silent 422,Young Adult,45.76,1,True,https://books.toscrape.com/catalogue/book_422/index.html
+Echo Fire 423,Young Adult,37.89,3,True,https://books.toscrape.com/catalogue/book_423/index.html
+Memory River 424,Young Adult,39.49,2,True,https://books.toscrape.com/catalogue/book_424/index.html
+Memory Island 425,Young Adult,41.83,3,True,https://books.toscrape.com/catalogue/book_425/index.html
+River River 426,Young Adult,47.08,1,True,https://books.toscrape.com/catalogue/book_426/index.html
+Shadow Secret 427,Young Adult,27.28,4,True,https://books.toscrape.com/catalogue/book_427/index.html
+Storm Last 428,Young Adult,34.4,5,True,https://books.toscrape.com/catalogue/book_428/index.html
+Echo Echo 429,Young Adult,22.75,3,True,https://books.toscrape.com/catalogue/book_429/index.html
+Garden City 430,Young Adult,20.84,2,True,https://books.toscrape.com/catalogue/book_430/index.html
+Fire Heart 431,Young Adult,29.37,5,True,https://books.toscrape.com/catalogue/book_431/index.html
+Garden Heart 432,Young Adult,49.88,3,True,https://books.toscrape.com/catalogue/book_432/index.html
+Letters Silent 433,Young Adult,46.71,2,True,https://books.toscrape.com/catalogue/book_433/index.html
+Night Heart 434,Young Adult,32.75,3,True,https://books.toscrape.com/catalogue/book_434/index.html
+Storm Memory 435,Young Adult,44.61,4,True,https://books.toscrape.com/catalogue/book_435/index.html
+Garden Garden 436,Young Adult,38.0,5,True,https://books.toscrape.com/catalogue/book_436/index.html
+Whisper Garden 437,Young Adult,54.02,4,True,https://books.toscrape.com/catalogue/book_437/index.html
+Crown Silent 438,Young Adult,27.35,3,True,https://books.toscrape.com/catalogue/book_438/index.html
+Last River 439,Young Adult,34.21,1,True,https://books.toscrape.com/catalogue/book_439/index.html
+Crown Golden 440,Young Adult,48.62,1,True,https://books.toscrape.com/catalogue/book_440/index.html
+Crown Secret 441,Young Adult,50.72,5,True,https://books.toscrape.com/catalogue/book_441/index.html
+Fire Lost 442,Young Adult,30.75,2,True,https://books.toscrape.com/catalogue/book_442/index.html
+Memory Echo 443,Young Adult,36.31,4,True,https://books.toscrape.com/catalogue/book_443/index.html
+Storm Winter 444,Young Adult,25.5,3,True,https://books.toscrape.com/catalogue/book_444/index.html
+Island Island 445,Young Adult,46.26,5,True,https://books.toscrape.com/catalogue/book_445/index.html
+Heart Shadow 446,Young Adult,29.51,1,True,https://books.toscrape.com/catalogue/book_446/index.html
+City Last 447,Historical Fiction,46.81,5,True,https://books.toscrape.com/catalogue/book_447/index.html
+Whisper Heart 448,Historical Fiction,30.33,3,True,https://books.toscrape.com/catalogue/book_448/index.html
+Silent Last 449,Historical Fiction,44.68,3,True,https://books.toscrape.com/catalogue/book_449/index.html
+City Memory 450,Historical Fiction,32.08,4,True,https://books.toscrape.com/catalogue/book_450/index.html
+River Crown 451,Historical Fiction,39.62,2,True,https://books.toscrape.com/catalogue/book_451/index.html
+Secret Letters 452,Historical Fiction,21.7,2,True,https://books.toscrape.com/catalogue/book_452/index.html
+Golden Crown 453,Historical Fiction,24.24,1,True,https://books.toscrape.com/catalogue/book_453/index.html
+Island Golden 454,Historical Fiction,15.72,4,True,https://books.toscrape.com/catalogue/book_454/index.html
+River Silent 455,Historical Fiction,39.28,3,True,https://books.toscrape.com/catalogue/book_455/index.html
+River Island 456,Historical Fiction,29.27,2,True,https://books.toscrape.com/catalogue/book_456/index.html
+Golden Echo 457,Historical Fiction,49.08,4,True,https://books.toscrape.com/catalogue/book_457/index.html
+Memory Memory 458,Historical Fiction,55.02,2,True,https://books.toscrape.com/catalogue/book_458/index.html
+Echo Storm 459,Historical Fiction,22.69,4,False,https://books.toscrape.com/catalogue/book_459/index.html
+Island Storm 460,Historical Fiction,46.65,3,True,https://books.toscrape.com/catalogue/book_460/index.html
+Fire Storm 461,Historical Fiction,30.39,3,True,https://books.toscrape.com/catalogue/book_461/index.html
+Heart Heart 462,Historical Fiction,40.39,5,True,https://books.toscrape.com/catalogue/book_462/index.html
+Letters Silent 463,Historical Fiction,33.57,1,True,https://books.toscrape.com/catalogue/book_463/index.html
+Island Lost 464,Historical Fiction,45.42,5,True,https://books.toscrape.com/catalogue/book_464/index.html
+Crown Crown 465,Historical Fiction,10.0,4,True,https://books.toscrape.com/catalogue/book_465/index.html
+Memory City 466,Historical Fiction,21.01,1,True,https://books.toscrape.com/catalogue/book_466/index.html
+Night Crown 467,Historical Fiction,31.06,2,True,https://books.toscrape.com/catalogue/book_467/index.html
+Crown Storm 468,Historical Fiction,33.59,4,True,https://books.toscrape.com/catalogue/book_468/index.html
+Letters Island 469,Historical Fiction,38.12,3,True,https://books.toscrape.com/catalogue/book_469/index.html
+Fire Heart 470,Historical Fiction,40.45,4,True,https://books.toscrape.com/catalogue/book_470/index.html
+City Night 471,Historical Fiction,44.12,5,True,https://books.toscrape.com/catalogue/book_471/index.html
+River Lost 472,Historical Fiction,40.28,4,True,https://books.toscrape.com/catalogue/book_472/index.html
+Letters Last 473,Mystery,59.99,3,True,https://books.toscrape.com/catalogue/book_473/index.html
+Winter Crown 474,Mystery,35.21,5,True,https://books.toscrape.com/catalogue/book_474/index.html
+River City 475,Mystery,53.79,3,True,https://books.toscrape.com/catalogue/book_475/index.html
+Garden Letters 476,Mystery,43.67,1,False,https://books.toscrape.com/catalogue/book_476/index.html
+Lost Storm 477,Mystery,32.65,5,True,https://books.toscrape.com/catalogue/book_477/index.html
+Silent Winter 478,Mystery,19.78,1,True,https://books.toscrape.com/catalogue/book_478/index.html
+Whisper Crown 479,Mystery,11.14,5,True,https://books.toscrape.com/catalogue/book_479/index.html
+Letters Echo 480,Mystery,25.41,1,True,https://books.toscrape.com/catalogue/book_480/index.html
+River Night 481,Mystery,37.4,1,True,https://books.toscrape.com/catalogue/book_481/index.html
+Memory Echo 482,Mystery,30.36,3,True,https://books.toscrape.com/catalogue/book_482/index.html
+Fire Heart 483,Mystery,24.51,1,True,https://books.toscrape.com/catalogue/book_483/index.html
+Golden Last 484,Mystery,19.79,1,True,https://books.toscrape.com/catalogue/book_484/index.html
+Night City 485,Mystery,58.57,1,True,https://books.toscrape.com/catalogue/book_485/index.html
+Silent Garden 486,Mystery,10.7,2,True,https://books.toscrape.com/catalogue/book_486/index.html
+Garden Echo 487,Mystery,37.37,2,True,https://books.toscrape.com/catalogue/book_487/index.html
+Last Fire 488,Mystery,32.82,5,True,https://books.toscrape.com/catalogue/book_488/index.html
+Lost Letters 489,Mystery,57.73,4,True,https://books.toscrape.com/catalogue/book_489/index.html
+Island Night 490,Mystery,21.71,2,True,https://books.toscrape.com/catalogue/book_490/index.html
+Lost Storm 491,Mystery,35.05,5,True,https://books.toscrape.com/catalogue/book_491/index.html
+Shadow Night 492,Mystery,27.29,1,True,https://books.toscrape.com/catalogue/book_492/index.html
+Lost Storm 493,Mystery,51.5,3,True,https://books.toscrape.com/catalogue/book_493/index.html
+Whisper Storm 494,Mystery,59.99,2,True,https://books.toscrape.com/catalogue/book_494/index.html
+City Whisper 495,Mystery,51.23,2,True,https://books.toscrape.com/catalogue/book_495/index.html
+Lost City 496,Mystery,33.46,2,True,https://books.toscrape.com/catalogue/book_496/index.html
+Secret Shadow 497,Mystery,30.44,4,True,https://books.toscrape.com/catalogue/book_497/index.html
+Golden Whisper 498,Mystery,26.02,5,True,https://books.toscrape.com/catalogue/book_498/index.html
+Shadow Last 499,Mystery,12.04,2,True,https://books.toscrape.com/catalogue/book_499/index.html
+Storm Storm 500,Mystery,46.29,4,True,https://books.toscrape.com/catalogue/book_500/index.html
+Winter Shadow 501,Mystery,32.34,5,True,https://books.toscrape.com/catalogue/book_501/index.html
+Golden Echo 502,Mystery,52.22,5,True,https://books.toscrape.com/catalogue/book_502/index.html
+Echo Crown 503,Mystery,29.89,2,True,https://books.toscrape.com/catalogue/book_503/index.html
+River Crown 504,Mystery,44.76,1,True,https://books.toscrape.com/catalogue/book_504/index.html
+Silent Fire 505,Romance,31.9,1,True,https://books.toscrape.com/catalogue/book_505/index.html
+Night Last 506,Romance,10.27,4,True,https://books.toscrape.com/catalogue/book_506/index.html
+Night Whisper 507,Romance,45.15,5,True,https://books.toscrape.com/catalogue/book_507/index.html
+Lost Winter 508,Romance,59.99,1,True,https://books.toscrape.com/catalogue/book_508/index.html
+Storm Lost 509,Romance,35.07,2,True,https://books.toscrape.com/catalogue/book_509/index.html
+Memory Secret 510,Romance,41.19,5,True,https://books.toscrape.com/catalogue/book_510/index.html
+City Letters 511,Romance,17.22,1,True,https://books.toscrape.com/catalogue/book_511/index.html
+Memory Shadow 512,Romance,52.66,5,True,https://books.toscrape.com/catalogue/book_512/index.html
+Lost River 513,Romance,39.27,2,True,https://books.toscrape.com/catalogue/book_513/index.html
+Shadow Garden 514,Romance,30.47,3,True,https://books.toscrape.com/catalogue/book_514/index.html
+Secret Storm 515,Romance,12.65,4,True,https://books.toscrape.com/catalogue/book_515/index.html
+Last Fire 516,Romance,43.93,5,True,https://books.toscrape.com/catalogue/book_516/index.html
+Letters Fire 517,Romance,31.77,2,False,https://books.toscrape.com/catalogue/book_517/index.html
+Lost Garden 518,Romance,23.5,5,True,https://books.toscrape.com/catalogue/book_518/index.html
+River Garden 519,Romance,21.4,4,True,https://books.toscrape.com/catalogue/book_519/index.html
+City Night 520,Romance,10.0,3,True,https://books.toscrape.com/catalogue/book_520/index.html
+Shadow Golden 521,Romance,53.35,3,True,https://books.toscrape.com/catalogue/book_521/index.html
+Letters Memory 522,Romance,33.77,5,True,https://books.toscrape.com/catalogue/book_522/index.html
+Memory Crown 523,Romance,32.12,1,True,https://books.toscrape.com/catalogue/book_523/index.html
+Letters Crown 524,Romance,10.0,5,True,https://books.toscrape.com/catalogue/book_524/index.html
+Whisper Golden 525,Romance,24.95,1,True,https://books.toscrape.com/catalogue/book_525/index.html
+Shadow Whisper 526,Romance,34.6,2,True,https://books.toscrape.com/catalogue/book_526/index.html
+Night Winter 527,Romance,40.37,4,True,https://books.toscrape.com/catalogue/book_527/index.html
+Island Island 528,Romance,45.25,2,True,https://books.toscrape.com/catalogue/book_528/index.html
+City Lost 529,Romance,18.88,1,True,https://books.toscrape.com/catalogue/book_529/index.html
+Fire Fire 530,Romance,32.53,2,True,https://books.toscrape.com/catalogue/book_530/index.html
+Last Secret 531,Romance,44.86,3,True,https://books.toscrape.com/catalogue/book_531/index.html
+Storm Winter 532,Romance,43.94,1,True,https://books.toscrape.com/catalogue/book_532/index.html
+Garden Golden 533,Romance,27.91,2,True,https://books.toscrape.com/catalogue/book_533/index.html
+Lost Memory 534,Romance,41.32,5,True,https://books.toscrape.com/catalogue/book_534/index.html
+Lost Last 535,Romance,16.9,3,True,https://books.toscrape.com/catalogue/book_535/index.html
+Memory Island 536,Romance,40.15,1,True,https://books.toscrape.com/catalogue/book_536/index.html
+River Island 537,Romance,51.89,5,True,https://books.toscrape.com/catalogue/book_537/index.html
+Whisper Heart 538,Romance,31.76,1,True,https://books.toscrape.com/catalogue/book_538/index.html
+Golden Shadow 539,Romance,21.89,1,True,https://books.toscrape.com/catalogue/book_539/index.html
+Silent Storm 540,Poetry,20.49,5,True,https://books.toscrape.com/catalogue/book_540/index.html
+Last River 541,Poetry,43.84,4,True,https://books.toscrape.com/catalogue/book_541/index.html
+Echo Heart 542,Poetry,54.36,2,True,https://books.toscrape.com/catalogue/book_542/index.html
+Secret Whisper 543,Poetry,29.73,5,True,https://books.toscrape.com/catalogue/book_543/index.html
+Golden Shadow 544,Poetry,43.95,1,True,https://books.toscrape.com/catalogue/book_544/index.html
+Storm Garden 545,Poetry,46.27,5,True,https://books.toscrape.com/catalogue/book_545/index.html
+Island Last 546,Poetry,10.0,5,True,https://books.toscrape.com/catalogue/book_546/index.html
+Shadow Last 547,Poetry,30.58,1,True,https://books.toscrape.com/catalogue/book_547/index.html
+Storm Night 548,Poetry,30.47,5,True,https://books.toscrape.com/catalogue/book_548/index.html
+City Silent 549,Poetry,26.26,1,True,https://books.toscrape.com/catalogue/book_549/index.html
+Crown Letters 550,Poetry,37.27,1,True,https://books.toscrape.com/catalogue/book_550/index.html
+Heart Night 551,Poetry,56.73,3,True,https://books.toscrape.com/catalogue/book_551/index.html
+Last Last 552,Poetry,43.51,2,False,https://books.toscrape.com/catalogue/book_552/index.html
+Fire Winter 553,Poetry,43.01,3,True,https://books.toscrape.com/catalogue/book_553/index.html
+Crown Memory 554,Poetry,16.21,3,True,https://books.toscrape.com/catalogue/book_554/index.html
+Storm Echo 555,Poetry,30.29,4,True,https://books.toscrape.com/catalogue/book_555/index.html
+Garden Heart 556,Poetry,30.24,4,True,https://books.toscrape.com/catalogue/book_556/index.html
+Island Secret 557,Poetry,10.0,2,True,https://books.toscrape.com/catalogue/book_557/index.html
+Silent Winter 558,Poetry,21.05,2,True,https://books.toscrape.com/catalogue/book_558/index.html
+Fire City 559,Science Fiction,36.16,3,True,https://books.toscrape.com/catalogue/book_559/index.html
+City Crown 560,Science Fiction,31.64,2,True,https://books.toscrape.com/catalogue/book_560/index.html
+Winter Whisper 561,Science Fiction,38.3,4,True,https://books.toscrape.com/catalogue/book_561/index.html
+Golden River 562,Science Fiction,49.03,1,True,https://books.toscrape.com/catalogue/book_562/index.html
+Memory Shadow 563,Science Fiction,36.45,3,True,https://books.toscrape.com/catalogue/book_563/index.html
+Crown Fire 564,Science Fiction,29.28,3,True,https://books.toscrape.com/catalogue/book_564/index.html
+Secret Crown 565,Science Fiction,28.23,3,True,https://books.toscrape.com/catalogue/book_565/index.html
+River Crown 566,Science Fiction,16.3,1,True,https://books.toscrape.com/catalogue/book_566/index.html
+Winter Fire 567,Science Fiction,32.32,3,True,https://books.toscrape.com/catalogue/book_567/index.html
+City Echo 568,Science Fiction,44.39,1,True,https://books.toscrape.com/catalogue/book_568/index.html
+Echo Winter 569,Science Fiction,37.3,3,True,https://books.toscrape.com/catalogue/book_569/index.html
+Secret Letters 570,Science Fiction,40.76,5,True,https://books.toscrape.com/catalogue/book_570/index.html
+River City 571,Science Fiction,48.37,1,True,https://books.toscrape.com/catalogue/book_571/index.html
+Heart Silent 572,Science Fiction,38.33,5,True,https://books.toscrape.com/catalogue/book_572/index.html
+City Island 573,Science Fiction,23.02,1,True,https://books.toscrape.com/catalogue/book_573/index.html
+River City 574,Science Fiction,55.39,3,True,https://books.toscrape.com/catalogue/book_574/index.html
+Shadow Golden 575,Travel,59.99,2,True,https://books.toscrape.com/catalogue/book_575/index.html
+Silent Fire 576,Travel,58.79,3,True,https://books.toscrape.com/catalogue/book_576/index.html
+Golden Last 577,Travel,32.54,1,True,https://books.toscrape.com/catalogue/book_577/index.html
+Storm Secret 578,Travel,38.41,3,True,https://books.toscrape.com/catalogue/book_578/index.html
+Golden Memory 579,Travel,59.99,1,True,https://books.toscrape.com/catalogue/book_579/index.html
+Secret Island 580,Travel,37.59,3,True,https://books.toscrape.com/catalogue/book_580/index.html
+Last Echo 581,Travel,39.17,5,True,https://books.toscrape.com/catalogue/book_581/index.html
+Storm Island 582,Travel,34.43,5,True,https://books.toscrape.com/catalogue/book_582/index.html
+Echo Crown 583,Travel,28.42,1,True,https://books.toscrape.com/catalogue/book_583/index.html
+Winter Lost 584,Travel,41.21,5,True,https://books.toscrape.com/catalogue/book_584/index.html
+City Memory 585,Travel,46.22,2,True,https://books.toscrape.com/catalogue/book_585/index.html
+City Heart 586,Childrens,35.31,1,True,https://books.toscrape.com/catalogue/book_586/index.html
+Memory Echo 587,Childrens,31.57,1,True,https://books.toscrape.com/catalogue/book_587/index.html
+Secret Golden 588,Childrens,35.46,2,True,https://books.toscrape.com/catalogue/book_588/index.html
+Fire Crown 589,Childrens,46.13,3,True,https://books.toscrape.com/catalogue/book_589/index.html
+Garden Whisper 590,Childrens,32.29,5,True,https://books.toscrape.com/catalogue/book_590/index.html
+Fire River 591,Childrens,37.63,2,True,https://books.toscrape.com/catalogue/book_591/index.html
+Shadow Secret 592,Childrens,47.01,4,True,https://books.toscrape.com/catalogue/book_592/index.html
+Crown Shadow 593,Childrens,34.92,2,True,https://books.toscrape.com/catalogue/book_593/index.html
+Storm Heart 594,Childrens,10.12,1,True,https://books.toscrape.com/catalogue/book_594/index.html
+Island Crown 595,Childrens,14.44,2,True,https://books.toscrape.com/catalogue/book_595/index.html
+Shadow City 596,Childrens,59.99,1,True,https://books.toscrape.com/catalogue/book_596/index.html
+Storm Memory 597,Childrens,48.99,2,True,https://books.toscrape.com/catalogue/book_597/index.html
+Last Fire 598,Childrens,19.56,1,True,https://books.toscrape.com/catalogue/book_598/index.html
+Whisper Heart 599,Childrens,24.9,1,True,https://books.toscrape.com/catalogue/book_599/index.html
+Night Fire 600,Childrens,54.04,1,True,https://books.toscrape.com/catalogue/book_600/index.html
+Letters Night 601,Childrens,46.12,5,True,https://books.toscrape.com/catalogue/book_601/index.html
+Last Golden 602,Childrens,31.96,5,True,https://books.toscrape.com/catalogue/book_602/index.html
+Shadow Silent 603,Childrens,34.05,2,True,https://books.toscrape.com/catalogue/book_603/index.html
+Winter Echo 604,Childrens,13.38,2,True,https://books.toscrape.com/catalogue/book_604/index.html
+Garden Secret 605,Childrens,41.44,4,True,https://books.toscrape.com/catalogue/book_605/index.html
+Fire Heart 606,Childrens,39.1,4,False,https://books.toscrape.com/catalogue/book_606/index.html
+Silent Heart 607,Childrens,30.4,5,True,https://books.toscrape.com/catalogue/book_607/index.html
+Heart Silent 608,Childrens,52.91,4,True,https://books.toscrape.com/catalogue/book_608/index.html
+Garden Letters 609,Childrens,27.51,4,True,https://books.toscrape.com/catalogue/book_609/index.html
+Echo Heart 610,Childrens,21.53,4,True,https://books.toscrape.com/catalogue/book_610/index.html
+Silent Silent 611,Childrens,10.0,5,True,https://books.toscrape.com/catalogue/book_611/index.html
+Heart Garden 612,Childrens,52.61,3,True,https://books.toscrape.com/catalogue/book_612/index.html
+Silent Secret 613,Childrens,37.16,2,True,https://books.toscrape.com/catalogue/book_613/index.html
+Night City 614,Childrens,25.96,5,True,https://books.toscrape.com/catalogue/book_614/index.html
+Whisper Secret 615,Horror,16.89,4,True,https://books.toscrape.com/catalogue/book_615/index.html
+Heart Shadow 616,Horror,30.51,4,True,https://books.toscrape.com/catalogue/book_616/index.html
+Lost Whisper 617,Horror,29.3,5,True,https://books.toscrape.com/catalogue/book_617/index.html
+Golden City 618,Horror,11.93,3,True,https://books.toscrape.com/catalogue/book_618/index.html
+Island River 619,Horror,36.28,4,True,https://books.toscrape.com/catalogue/book_619/index.html
+City Secret 620,Horror,36.39,5,True,https://books.toscrape.com/catalogue/book_620/index.html
+Silent Echo 621,Horror,35.25,1,True,https://books.toscrape.com/catalogue/book_621/index.html
+Crown Winter 622,Horror,28.93,3,True,https://books.toscrape.com/catalogue/book_622/index.html
+Secret Last 623,Horror,47.41,5,True,https://books.toscrape.com/catalogue/book_623/index.html
+Last Crown 624,Horror,30.06,1,True,https://books.toscrape.com/catalogue/book_624/index.html
+Island Winter 625,Horror,36.85,4,True,https://books.toscrape.com/catalogue/book_625/index.html
+Storm Memory 626,Horror,59.99,2,True,https://books.toscrape.com/catalogue/book_626/index.html
+Silent Night 627,Horror,55.28,5,True,https://books.toscrape.com/catalogue/book_627/index.html
+City Garden 628,Horror,38.4,2,True,https://books.toscrape.com/catalogue/book_628/index.html
+Shadow Silent 629,Horror,46.33,2,True,https://books.toscrape.com/catalogue/book_629/index.html
+Letters Shadow 630,Horror,27.51,2,True,https://books.toscrape.com/catalogue/book_630/index.html
+Lost Island 631,Horror,36.16,2,True,https://books.toscrape.com/catalogue/book_631/index.html
+Last Island 632,Humor,13.95,5,True,https://books.toscrape.com/catalogue/book_632/index.html
+Lost Lost 633,Humor,31.47,1,False,https://books.toscrape.com/catalogue/book_633/index.html
+Shadow Last 634,Humor,57.23,2,True,https://books.toscrape.com/catalogue/book_634/index.html
+Garden Winter 635,Humor,43.31,5,True,https://books.toscrape.com/catalogue/book_635/index.html
+Garden Memory 636,Humor,31.41,1,True,https://books.toscrape.com/catalogue/book_636/index.html
+Silent River 637,Humor,45.76,1,True,https://books.toscrape.com/catalogue/book_637/index.html
+Secret Lost 638,Humor,33.62,1,True,https://books.toscrape.com/catalogue/book_638/index.html
+Storm Night 639,Humor,40.96,3,True,https://books.toscrape.com/catalogue/book_639/index.html
+Storm Heart 640,Humor,38.9,5,True,https://books.toscrape.com/catalogue/book_640/index.html
+Silent Garden 641,Humor,36.4,1,True,https://books.toscrape.com/catalogue/book_641/index.html
+Fire Letters 642,Music,59.99,4,True,https://books.toscrape.com/catalogue/book_642/index.html
+Night River 643,Music,59.99,1,True,https://books.toscrape.com/catalogue/book_643/index.html
+Secret Crown 644,Music,48.87,3,True,https://books.toscrape.com/catalogue/book_644/index.html
+Whisper Crown 645,Music,36.87,5,True,https://books.toscrape.com/catalogue/book_645/index.html
+Island Night 646,Music,32.72,2,True,https://books.toscrape.com/catalogue/book_646/index.html
+Night Golden 647,Music,59.99,4,True,https://books.toscrape.com/catalogue/book_647/index.html
+Golden Night 648,Music,34.12,5,True,https://books.toscrape.com/catalogue/book_648/index.html
+City Golden 649,Music,59.99,1,True,https://books.toscrape.com/catalogue/book_649/index.html
+Memory Whisper 650,Music,47.32,2,True,https://books.toscrape.com/catalogue/book_650/index.html
+Golden Storm 651,Music,10.0,3,True,https://books.toscrape.com/catalogue/book_651/index.html
+Storm Secret 652,Music,59.99,2,True,https://books.toscrape.com/catalogue/book_652/index.html
+Silent Shadow 653,Music,33.43,4,True,https://books.toscrape.com/catalogue/book_653/index.html
+Golden Echo 654,Music,44.17,4,True,https://books.toscrape.com/catalogue/book_654/index.html
+Night Echo 655,Sports and Games,47.44,4,True,https://books.toscrape.com/catalogue/book_655/index.html
+Garden Storm 656,Sports and Games,19.62,4,True,https://books.toscrape.com/catalogue/book_656/index.html
+Heart Memory 657,Sports and Games,27.28,5,False,https://books.toscrape.com/catalogue/book_657/index.html
+Island Crown 658,Sports and Games,23.96,2,True,https://books.toscrape.com/catalogue/book_658/index.html
+Storm City 659,Sports and Games,18.96,4,True,https://books.toscrape.com/catalogue/book_659/index.html
