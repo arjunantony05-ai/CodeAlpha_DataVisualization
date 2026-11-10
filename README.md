@@ -31,5 +31,10 @@ python visualize.py        # uses data/books.csv, falls back to data/sample_book
 ```
 
 ## Findings
-**Fill in from `outputs/insights.md` after running on the real scraped data.**
-The bundled `sample_books.csv` is synthetic, so its numbers are not real results.
+Based on 1,000 books across 50 categories scraped from books.toscrape.com:
+
+- Value is concentrated: the 3 biggest categories hold 33% of the catalogue's total list value.
+- Ratings are middling: the mean rating is 2.92 stars and only 38% of books are rated 4-5 stars.
+- The median price is £35.98. Suspense has the highest average price (£58.33), but it is a tiny category (one book), so this is not a reliable pattern.
+- Price and rating are essentially unrelated (Spearman correlation 0.03): expensive books are not rated higher.
+- Takeaway: a few large categories drive the catalogue's value, and price alone says nothing about quality.
